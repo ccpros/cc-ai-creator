@@ -1,5 +1,5 @@
 import AgentPulse from "@/components/AgentPulse";
-import Image from "next/image";
+
 
 import {
   Brain,
